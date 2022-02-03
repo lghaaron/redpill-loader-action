@@ -1,16 +1,16 @@
 {
   "extra_cmdline": {
-    "vid": "0xABAB",
-    "pid": "0xABAB",
-    "sn": "125XXXX",
+    "vid": "0x0781",
+    "pid": "0x556B",
+    "sn": "1750PDN089900",
     "netif_num":"2",
-    "mac1": "0011XXXX",
-    "mac2": "0011XXXX"
+    "mac1": "109027E9E635",
+    "mac2": "109027E9E636"
     },
     "synoinfo": {
     "maxdisks" : "16",
-    "internalportcfg" : "0xf006",
-    "esataportcfg" : "0x0ff9"
+    "internalportcfg" : "0xfffe",
+    "esataportcfg" : "0x0001"
     },
     "ramdisk_copy": {},
     "extensions": []
